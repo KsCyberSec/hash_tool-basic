@@ -1,0 +1,588 @@
+# depslib dependency file v1.0
+1757088235 source:/home/kali/Documents/projects/hash_sec/main.c
+	<stdlib.h>
+	<string.h>
+	<openssl/evp.h>
+
+1750222171 /usr/include/stdlib.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<bits/floatn.h>
+	<bits/types/locale_t.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/floatn.h>
+	<bits/stdlib-ldbl.h>
+
+1750222171 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1750222171 /usr/include/features.h
+	<features-time64.h>
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1750222171 /usr/include/features-time64.h
+	<bits/wordsize.h>
+	<bits/timesize.h>
+
+1750222171 /usr/include/stdc-predef.h
+
+1750222171 /usr/include/string.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<bits/types/locale_t.h>
+	<strings.h>
+	<bits/string_fortified.h>
+
+1750222171 /usr/include/strings.h
+	<features.h>
+	<stddef.h>
+	<bits/types/locale_t.h>
+	<bits/strings_fortified.h>
+
+1754818237 /usr/include/openssl/evp.h
+	<openssl/macros.h>
+	<stdarg.h>
+	<stdio.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<openssl/core.h>
+	<openssl/core_dispatch.h>
+	<openssl/symhacks.h>
+	<openssl/bio.h>
+	<openssl/evperr.h>
+	<openssl/params.h>
+	<openssl/objects.h>
+
+1754818237 /usr/include/openssl/macros.h
+	<openssl/opensslconf.h>
+	<openssl/opensslv.h>
+
+1754818237 /usr/include/openssl/opensslv.h
+	<openssl/macros.h>
+
+1750222171 /usr/include/stdio.h
+	<bits/libc-header-start.h>
+	<stddef.h>
+	<stdarg.h>
+	<bits/types.h>
+	<bits/types/__fpos_t.h>
+	<bits/types/__fpos64_t.h>
+	<bits/types/__FILE.h>
+	<bits/types/FILE.h>
+	<bits/types/struct_FILE.h>
+	<bits/types/cookie_io_functions_t.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/floatn.h>
+	<bits/getopt_posix.h>
+	<bits/stdio2-decl.h>
+	<bits/stdio-ldbl.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+
+1754818237 /usr/include/openssl/types.h
+	<limits.h>
+	<openssl/e_os2.h>
+	<openssl/safestack.h>
+	<openssl/macros.h>
+
+1750222171 /usr/include/limits.h
+	<bits/libc-header-start.h>
+	<bits/wordsize.h>
+	<bits/posix1_lim.h>
+	<bits/posix2_lim.h>
+	<bits/xopen_lim.h>
+
+1754818237 /usr/include/openssl/e_os2.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<strings.h>
+	<spthread.h>
+	<pthread.h>
+	<sys/types.h>
+	<inttypes.h>
+	<stdint.h>
+	<sys/types.h>
+	<stdint.h>
+
+1750222171 /usr/include/pthread.h
+	<features.h>
+	<sched.h>
+	<time.h>
+	<bits/endian.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+	<bits/types/struct_timespec.h>
+	<bits/types/__sigset_t.h>
+	<bits/types/struct___jmp_buf_tag.h>
+	<bits/pthread_stack_min-dynamic.h>
+
+1750222171 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<bits/types/time_t.h>
+	<bits/types/struct_timespec.h>
+	<time.h>
+	<bits/sched.h>
+	<bits/cpu-set.h>
+
+1750222171 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types/clock_t.h>
+	<bits/types/time_t.h>
+	<bits/types/struct_tm.h>
+	<bits/types/struct_timespec.h>
+	<bits/types/clockid_t.h>
+	<bits/types/timer_t.h>
+	<bits/types/struct_itimerspec.h>
+	<bits/types/locale_t.h>
+
+1750222171 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1750222171 /usr/include/stdint.h
+	<bits/libc-header-start.h>
+	<bits/types.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+	<bits/stdint-intn.h>
+	<bits/stdint-uintn.h>
+	<bits/stdint-least.h>
+
+1754818237 /usr/include/openssl/safestack.h
+	<openssl/macros.h>
+	<openssl/stack.h>
+	<openssl/e_os2.h>
+
+1754818237 /usr/include/openssl/stack.h
+	<openssl/macros.h>
+
+1754818237 /usr/include/openssl/core.h
+	<stddef.h>
+	<openssl/types.h>
+
+1754818237 /usr/include/openssl/core_dispatch.h
+	<stdarg.h>
+	<openssl/core.h>
+	<openssl/indicator.h>
+
+1754818237 /usr/include/openssl/indicator.h
+	<openssl/params.h>
+
+1754818237 /usr/include/openssl/params.h
+	<openssl/core.h>
+	<openssl/bn.h>
+
+1754818237 /usr/include/openssl/bn.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<openssl/crypto.h>
+	<openssl/bnerr.h>
+
+1754818237 /usr/include/openssl/crypto.h
+	<openssl/macros.h>
+	<stdlib.h>
+	<time.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<openssl/safestack.h>
+	<openssl/opensslv.h>
+	<openssl/types.h>
+	<openssl/opensslconf.h>
+	<openssl/cryptoerr.h>
+	<openssl/core.h>
+	<openssl/ebcdic.h>
+	<openssl/symhacks.h>
+	<openssl/opensslv.h>
+	<spthread.h>
+	<pthread.h>
+
+1754818237 /usr/include/openssl/cryptoerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/symhacks.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+
+1754818237 /usr/include/openssl/cryptoerr_legacy.h
+	<openssl/macros.h>
+	<openssl/symhacks.h>
+
+1754818237 /usr/include/openssl/ebcdic.h
+	<openssl/macros.h>
+	<stdlib.h>
+
+1754818237 /usr/include/openssl/bnerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/bio.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<stdio.h>
+	<stdarg.h>
+	<openssl/crypto.h>
+	<openssl/bioerr.h>
+	<openssl/core.h>
+
+1754818237 /usr/include/openssl/bioerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/evperr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/objects.h
+	<openssl/macros.h>
+	<openssl/obj_mac.h>
+	<openssl/bio.h>
+	<openssl/asn1.h>
+	<openssl/objectserr.h>
+
+1754818237 /usr/include/openssl/obj_mac.h
+
+1754818237 /usr/include/openssl/asn1.h
+	<openssl/macros.h>
+	<stdio.h>
+	<time.h>
+	<openssl/e_os2.h>
+	<openssl/opensslconf.h>
+	<openssl/bio.h>
+	<openssl/safestack.h>
+	<openssl/asn1err.h>
+	<openssl/symhacks.h>
+	<openssl/types.h>
+	<openssl/bn.h>
+
+1754818237 /usr/include/openssl/asn1err.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/objectserr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/ssl.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<openssl/e_ostime.h>
+	<openssl/opensslconf.h>
+	<openssl/comp.h>
+	<openssl/bio.h>
+	<openssl/x509.h>
+	<openssl/crypto.h>
+	<openssl/buffer.h>
+	<openssl/lhash.h>
+	<openssl/pem.h>
+	<openssl/hmac.h>
+	<openssl/async.h>
+	<openssl/safestack.h>
+	<openssl/symhacks.h>
+	<openssl/ct.h>
+	<openssl/sslerr.h>
+	<openssl/prov_ssl.h>
+	<stdio.h>
+	<openssl/ssl2.h>
+	<openssl/ssl3.h>
+	<openssl/tls1.h>
+	<openssl/dtls1.h>
+	<openssl/srtp.h>
+	<openssl/quic.h>
+
+1754818237 /usr/include/openssl/e_ostime.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/e_os2.h>
+	<winsock2.h>
+	<sys/time.h>
+
+1754818237 /usr/include/openssl/comp.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/crypto.h>
+	<openssl/comperr.h>
+
+1754818237 /usr/include/openssl/comperr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/x509.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<openssl/types.h>
+	<openssl/symhacks.h>
+	<openssl/buffer.h>
+	<openssl/evp.h>
+	<openssl/bio.h>
+	<openssl/asn1.h>
+	<openssl/safestack.h>
+	<openssl/ec.h>
+	<openssl/rsa.h>
+	<openssl/dsa.h>
+	<openssl/dh.h>
+	<openssl/sha.h>
+	<openssl/x509err.h>
+	<stdio.h>
+	<openssl/x509_vfy.h>
+	<openssl/pkcs7.h>
+	<openssl/http.h>
+
+1754818237 /usr/include/openssl/buffer.h
+	<openssl/macros.h>
+	<openssl/types.h>
+	<openssl/crypto.h>
+	<openssl/buffererr.h>
+	<stddef.h>
+	<sys/types.h>
+
+1754818237 /usr/include/openssl/buffererr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/ec.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<string.h>
+	<stdio.h>
+	<openssl/asn1.h>
+	<openssl/symhacks.h>
+	<openssl/bn.h>
+	<openssl/ecerr.h>
+	<openssl/params.h>
+
+1754818237 /usr/include/openssl/ecerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/rsa.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/asn1.h>
+	<openssl/bio.h>
+	<openssl/crypto.h>
+	<openssl/types.h>
+	<openssl/bn.h>
+	<openssl/rsaerr.h>
+	<openssl/safestack.h>
+	<stdio.h>
+
+1754818237 /usr/include/openssl/rsaerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/dsa.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<stdlib.h>
+	<openssl/e_os2.h>
+	<openssl/asn1.h>
+	<openssl/bio.h>
+	<openssl/crypto.h>
+	<openssl/bn.h>
+	<openssl/dh.h>
+	<openssl/dsaerr.h>
+	<stdio.h>
+
+1754818237 /usr/include/openssl/dh.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<stdlib.h>
+	<stdio.h>
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<openssl/asn1.h>
+	<openssl/bn.h>
+	<openssl/dherr.h>
+
+1754818237 /usr/include/openssl/dherr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/dsaerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/sha.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<stddef.h>
+
+1754818237 /usr/include/openssl/x509err.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/x509_vfy.h
+	<openssl/macros.h>
+	<openssl/x509.h>
+	<openssl/opensslconf.h>
+	<openssl/lhash.h>
+	<openssl/bio.h>
+	<openssl/crypto.h>
+	<openssl/symhacks.h>
+
+1754818237 /usr/include/openssl/lhash.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<stdio.h>
+
+1754818237 /usr/include/openssl/pkcs7.h
+	<openssl/macros.h>
+	<openssl/asn1.h>
+	<openssl/bio.h>
+	<openssl/e_os2.h>
+	<openssl/symhacks.h>
+	<openssl/types.h>
+	<openssl/pkcs7err.h>
+	<stdio.h>
+
+1754818237 /usr/include/openssl/pkcs7err.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/http.h
+	<openssl/opensslconf.h>
+	<openssl/bio.h>
+	<openssl/asn1.h>
+	<openssl/conf.h>
+
+1754818237 /usr/include/openssl/conf.h
+	<openssl/macros.h>
+	<openssl/bio.h>
+	<openssl/lhash.h>
+	<openssl/safestack.h>
+	<openssl/e_os2.h>
+	<openssl/types.h>
+	<openssl/conferr.h>
+	<stdio.h>
+	<openssl/conftypes.h>
+
+1754818237 /usr/include/openssl/conferr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/conftypes.h
+	<openssl/conf.h>
+
+1754818237 /usr/include/openssl/pem.h
+	<openssl/macros.h>
+	<openssl/e_os2.h>
+	<openssl/bio.h>
+	<openssl/safestack.h>
+	<openssl/evp.h>
+	<openssl/x509.h>
+	<openssl/pemerr.h>
+	<stdio.h>
+	<openssl/symhacks.h>
+
+1754818237 /usr/include/openssl/pemerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/hmac.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/evp.h>
+
+1754818237 /usr/include/openssl/async.h
+	<stdlib.h>
+	<openssl/macros.h>
+	<openssl/asyncerr.h>
+
+1754818237 /usr/include/openssl/asyncerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/ct.h
+	<openssl/macros.h>
+	<openssl/opensslconf.h>
+	<openssl/types.h>
+	<openssl/safestack.h>
+	<openssl/x509.h>
+	<openssl/cterr.h>
+
+1754818237 /usr/include/openssl/cterr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/cryptoerr_legacy.h>
+
+1754818237 /usr/include/openssl/sslerr.h
+	<openssl/opensslconf.h>
+	<openssl/symhacks.h>
+	<openssl/sslerr_legacy.h>
+
+1754818237 /usr/include/openssl/sslerr_legacy.h
+	<openssl/macros.h>
+	<openssl/symhacks.h>
+
+1754818237 /usr/include/openssl/prov_ssl.h
+
+1754818237 /usr/include/openssl/ssl2.h
+	<openssl/macros.h>
+
+1754818237 /usr/include/openssl/ssl3.h
+	<openssl/macros.h>
+	<openssl/comp.h>
+	<openssl/buffer.h>
+	<openssl/evp.h>
+	<openssl/ssl.h>
+
+1754818237 /usr/include/openssl/tls1.h
+	<openssl/macros.h>
+	<openssl/buffer.h>
+	<openssl/x509.h>
+	<openssl/prov_ssl.h>
+
+1754818237 /usr/include/openssl/dtls1.h
+	<openssl/macros.h>
+	<openssl/prov_ssl.h>
+	<openssl/opensslconf.h>
+
+1754818237 /usr/include/openssl/srtp.h
+	<openssl/macros.h>
+	<openssl/ssl.h>
+
+1754818237 /usr/include/openssl/quic.h
+	<openssl/macros.h>
+	<openssl/ssl.h>
+
